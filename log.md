@@ -2,9 +2,9 @@
 
 ### Day 1: July 25, 2024 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: leetcode medium problem - Insert Interval
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** took some time to code but got it after some tries. Need to work on inproving time complexity
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** {Insert Interval}(https://leetcode.com/problems/insert-interval/submissions/1332622871)
 
