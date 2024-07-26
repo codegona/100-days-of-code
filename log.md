@@ -11,3 +11,13 @@
 **Link to work:** {Insert Interval}(https://leetcode.com/problems/insert-interval/submissions/1332622871)
 https://leetcode.com/problems/k-closest-points-to-origin/submissions/1332756365
 
+### Day 2: July 26, 2024 
+
+**Today's Progress**: leetcode medium/easy problem - 3Sum,2Sum
+
+**Thoughts:** already solved these problems about a year back and now made the same mistakes again in 3sum and 2sum that i had made a year back 
+  - Need to work on thinking about corner cases.
+  - if you have to make something unique dont always go with set think of other possible solutions to improve complexity
+
+**Link to work:** {3Sum}((https://leetcode.com/problems/3sum/submissions/1334252340))
+{2Sum}(https://leetcode.com/problems/two-sum/submissions/1334256465)
