@@ -24,8 +24,16 @@ https://leetcode.com/problems/k-closest-points-to-origin/submissions/1332756365
 
 ### Day 3: July 27, 2024 
 
-**Today's Progress**: leetcode medium/easy problem - 3Sum,2Sum
+**Today's Progress**: leetcode medium/easy problem 
 
 **Thoughts:** doing a little cheating since 27 july was an overwhelming day and couldn't find even an hour to give so doing it on 28 july
 
 **Link to work:** {Binary Tree Level Order Traversal}(https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1335971251)
+
+### Day 3: July 28, 2024 
+
+**Today's Progress**: leetcode medium/easy problem 
+
+**Thoughts:** 
+
+**Link to work:** {01 Matrix}(https://leetcode.com/problems/01-matrix/submissions/1335996711)
