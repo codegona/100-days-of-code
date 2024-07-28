@@ -34,6 +34,7 @@ https://leetcode.com/problems/k-closest-points-to-origin/submissions/1332756365
 
 **Today's Progress**: leetcode medium/easy problem 
 
-**Thoughts:** 
+**Thoughts:** 01 matrix - was not able to understand the problem statement because of some pre perceived though about the problem
 
 **Link to work:** {01 Matrix}(https://leetcode.com/problems/01-matrix/submissions/1335996711)
+{Evaluate Reverse Polish Notation}(https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1336077947)
