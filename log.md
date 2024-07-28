@@ -21,3 +21,11 @@ https://leetcode.com/problems/k-closest-points-to-origin/submissions/1332756365
 
 **Link to work:** {3Sum}((https://leetcode.com/problems/3sum/submissions/1334252340))
 {2Sum}(https://leetcode.com/problems/two-sum/submissions/1334256465)
+
+### Day 3: July 27, 2024 
+
+**Today's Progress**: leetcode medium/easy problem - 3Sum,2Sum
+
+**Thoughts:** doing a little cheating since 27 july was an overwhelming day and couldn't find even an hour to give so doing it on 28 july
+
+**Link to work:** {Binary Tree Level Order Traversal}(https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1335971251)
