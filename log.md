@@ -30,7 +30,7 @@ https://leetcode.com/problems/k-closest-points-to-origin/submissions/1332756365
 
 **Link to work:** {Binary Tree Level Order Traversal}(https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1335971251)
 
-### Day 3: July 28, 2024 
+### Day 4: July 28, 2024 
 
 **Today's Progress**: leetcode medium/easy problem 
 
