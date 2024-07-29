@@ -38,3 +38,11 @@ https://leetcode.com/problems/k-closest-points-to-origin/submissions/1332756365
 
 **Link to work:** {01 Matrix}(https://leetcode.com/problems/01-matrix/submissions/1335996711)
 {Evaluate Reverse Polish Notation}(https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1336077947)
+
+### Day 5: July 29, 2024 
+
+**Today's Progress**: leetcode medium/easy problem 
+
+**Thoughts:** more focus is needed
+
+**Link to work:** {Product of Array Except Self}(https://leetcode.com/problems/product-of-array-except-self/submissions/1336871696)
