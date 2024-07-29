@@ -47,3 +47,4 @@ https://leetcode.com/problems/k-closest-points-to-origin/submissions/1332756365
 
 **Link to work:** {Product of Array Except Self}(https://leetcode.com/problems/product-of-array-except-self/submissions/1336871696)
 {Coin Change}(https://leetcode.com/problems/coin-change/submissions/1336921353)
+{Course Schedule}(https://leetcode.com/problems/course-schedule/submissions/1336960262)
