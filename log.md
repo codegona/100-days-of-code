@@ -49,3 +49,11 @@ https://leetcode.com/problems/k-closest-points-to-origin/submissions/1332756365
 {Coin Change}(https://leetcode.com/problems/coin-change/submissions/1336921353)
 {Course Schedule}(https://leetcode.com/problems/course-schedule/submissions/1336960262)
 Validate Binary Search Tree (https://leetcode.com/problems/validate-binary-search-tree/submissions/1337101879) - think in terms of range 
+
+### Day 6: July 30, 2024 
+
+**Today's Progress**: leetcode medium/easy problem 
+
+**Thoughts:** Number of Islands- easy intuition
+
+**Link to work:** {Number of Islands}(https://leetcode.com/problems/number-of-islands/submissions/1338107041)
