@@ -54,6 +54,7 @@ Validate Binary Search Tree (https://leetcode.com/problems/validate-binary-searc
 
 **Today's Progress**: leetcode medium/easy problem 
 
-**Thoughts:** Number of Islands- easy intuition
+**Thoughts:** Number of Islands,Rotting Oranges- easy intuition,
 
 **Link to work:** {Number of Islands}(https://leetcode.com/problems/number-of-islands/submissions/1338107041)
+(Rotting Oranges) (https://leetcode.com/problems/rotting-oranges/submissions/1338162142)
