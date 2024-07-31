@@ -66,3 +66,4 @@ Validate Binary Search Tree (https://leetcode.com/problems/validate-binary-searc
 **Thoughts:** Merge Intervals- easy intuition,solved easily
 
 **Link to work:** {Merge Intervals}(https://leetcode.com/problems/merge-intervals/submissions/1339242592)
+{Search in Rotated Sorted Array}(https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1339324975)
