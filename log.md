@@ -64,6 +64,9 @@ Validate Binary Search Tree (https://leetcode.com/problems/validate-binary-searc
 **Today's Progress**: leetcode medium/easy problem 
 
 **Thoughts:** Merge Intervals- easy intuition,solved easily
+also started with machine coding parallelly( start with entities and methods then jump to code )
+struglled with classess costructors initially but first code in c++/oop after long time so hoping improvement ahead
 
 **Link to work:** {Merge Intervals}(https://leetcode.com/problems/merge-intervals/submissions/1339242592)
 {Search in Rotated Sorted Array}(https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1339324975)
+https://github.com/codegona/machineCoding/blob/main/snakeAndLadder.cpp
