@@ -58,3 +58,11 @@ Validate Binary Search Tree (https://leetcode.com/problems/validate-binary-searc
 
 **Link to work:** {Number of Islands}(https://leetcode.com/problems/number-of-islands/submissions/1338107041)
 (Rotting Oranges) (https://leetcode.com/problems/rotting-oranges/submissions/1338162142)
+
+### Day 7: July 31, 2024 
+
+**Today's Progress**: leetcode medium/easy problem 
+
+**Thoughts:** Merge Intervals- easy intuition,solved easily
+
+**Link to work:** {Merge Intervals}(https://leetcode.com/problems/merge-intervals/submissions/1339242592)
