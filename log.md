@@ -70,3 +70,13 @@ struglled with classess costructors initially but first code in c++/oop after lo
 **Link to work:** {Merge Intervals}(https://leetcode.com/problems/merge-intervals/submissions/1339242592)
 {Search in Rotated Sorted Array}(https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1339324975)
 https://github.com/codegona/machineCoding/blob/main/snakeAndLadder.cpp
+
+### Day 8: Aug 1, 2024 
+
+**Today's Progress**: Machine coding easy
+
+**Thoughts:** 
+
+**Link to work:** {Design Tic-Tac-Toe }
+Problem - https://workat.tech/machine-coding/practice/design-tic-tac-toe-smyfi9x064ry
+solution - https://github.com/codegona/machineCoding/blob/main/ticTacToe.cpp
