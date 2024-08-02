@@ -80,3 +80,12 @@ https://github.com/codegona/machineCoding/blob/main/snakeAndLadder.cpp
 **Link to work:** {Design Tic-Tac-Toe }
 Problem - https://workat.tech/machine-coding/practice/design-tic-tac-toe-smyfi9x064ry
 solution - https://github.com/codegona/machineCoding/blob/main/ticTacToe.cpp
+
+### Day 9: Aug 2, 2024 
+
+**Today's Progress**: leetcode easy
+
+**Thoughts:** was able to do it in few minutes easy problem.
+
+**Link to work:** {Sort Colors}
+https://leetcode.com/problems/sort-colors/submissions/1341796439
