@@ -99,3 +99,12 @@ https://leetcode.com/problems/sort-colors/submissions/1341796439
 
 **Link to work:** {Combination Sum}
 ](https://leetcode.com/problems/combination-sum/submissions/1343398340)
+
+### Day 11: Aug 4, 2024 
+
+**Today's Progress**: leetcode easy backtracking
+
+**Thoughts:** easy intuition
+
+**Link to work:**
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/1344368161
