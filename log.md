@@ -108,3 +108,12 @@ https://leetcode.com/problems/sort-colors/submissions/1341796439
 
 **Link to work:**
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/1344368161
+
+### Day 12: Aug 5, 2024 
+
+**Today's Progress**: leetcode easy backtracking
+
+**Thoughts:** easy intuition
+
+**Link to work:** Permutations
+https://leetcode.com/problems/permutations/submissions/1345011139
