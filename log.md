@@ -117,3 +117,12 @@ https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submission
 
 **Link to work:** Permutations
 https://leetcode.com/problems/permutations/submissions/1345011139
+
+### Day 13: Aug 6, 2024 
+
+**Today's Progress**: leetcode easy 2d DP
+
+**Thoughts:** making the same mistakes i made earlier :/
+
+**Link to work:** Partition Equal Subset Sum
+https://leetcode.com/problems/partition-equal-subset-sum/submissions/1346181062
