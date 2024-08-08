@@ -135,3 +135,12 @@ https://leetcode.com/problems/partition-equal-subset-sum/submissions/1346181062
 
 **Link to work:** atoi
 https://leetcode.com/problems/string-to-integer-atoi/submissions/1347422465
+
+### Day 15: Aug 8, 2024 
+
+**Today's Progress**: leetcode easy backtracking
+
+**Thoughts:** easy 
+
+**Link to work:** subsets
+https://leetcode.com/problems/subsets/submissions/1348542851
