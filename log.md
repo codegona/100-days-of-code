@@ -127,7 +127,7 @@ https://leetcode.com/problems/permutations/submissions/1345011139
 **Link to work:** Partition Equal Subset Sum
 https://leetcode.com/problems/partition-equal-subset-sum/submissions/1346181062
 
-### Day 13: Aug 6, 2024 
+### Day 14: Aug 7, 2024 
 
 **Today's Progress**: leetcode easy 2d DP
 
