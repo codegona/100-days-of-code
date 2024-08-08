@@ -140,8 +140,10 @@ https://leetcode.com/problems/string-to-integer-atoi/submissions/1347422465
 
 **Today's Progress**: leetcode easy backtracking
 
-**Thoughts:** easy 
+**Thoughts:** easy, more attention to detail is needed
 
-**Link to work:** subsets,spiral matrix
+**Link to work:** subsets,spiral matrix,Unique Paths
 https://leetcode.com/problems/subsets/submissions/1348542851
 https://leetcode.com/problems/spiral-matrix/submissions/1348557984
+https://leetcode.com/problems/unique-paths/submissions/1348579913
+
