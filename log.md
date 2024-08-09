@@ -146,3 +146,11 @@ https://leetcode.com/problems/string-to-integer-atoi/submissions/1347422465
 {spiral matrix} - https://leetcode.com/problems/spiral-matrix/submissions/1348557984
 {Unique Paths} - https://leetcode.com/problems/unique-paths/submissions/1348579913
 
+### Day 16: Aug 9, 2024 
+
+**Today's Progress**: leetcode easy tree traversal
+
+**Thoughts:** 
+
+**Link to work:** {Binary Tree Right Side View}
+https://leetcode.com/problems/binary-tree-right-side-view/submissions/1350141110
