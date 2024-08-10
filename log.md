@@ -154,3 +154,12 @@ https://leetcode.com/problems/string-to-integer-atoi/submissions/1347422465
 
 **Link to work:** {Binary Tree Right Side View}
 https://leetcode.com/problems/binary-tree-right-side-view/submissions/1350141110
+
+### Day 17: Aug 10, 2024 
+
+**Today's Progress**: leetcode easy tree traversal
+
+**Thoughts:** 
+
+**Link to work:** {Construct Binary Tree from Preorder and Inorder Traversal}
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1351066192
