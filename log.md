@@ -172,3 +172,12 @@ https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-tr
 
 **Link to work:** {Letter Combinations of a Phone Number}
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1353395407
+
+### Day 19: Aug 12, 2024 
+
+**Today's Progress**: leetcode dfs 
+
+**Thoughts:** use search pruning
+
+**Link to work:** {Word Search}
+https://leetcode.com/problems/word-search/submissions/1353489738
