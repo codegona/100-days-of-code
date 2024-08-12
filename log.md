@@ -163,3 +163,12 @@ https://leetcode.com/problems/binary-tree-right-side-view/submissions/1350141110
 
 **Link to work:** {Construct Binary Tree from Preorder and Inorder Traversal}
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/1351066192
+
+### Day 18: Aug 11, 2024 
+
+**Today's Progress**: leetcode easy bactracking - 25 min
+
+**Thoughts:** more optimization can be done
+
+**Link to work:** {Letter Combinations of a Phone Number}
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1353395407
