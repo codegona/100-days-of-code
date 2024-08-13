@@ -181,3 +181,13 @@ https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/
 
 **Link to work:** {Word Search}
 https://leetcode.com/problems/word-search/submissions/1353489738
+
+
+### Day 20: Aug 13, 2024 
+
+**Today's Progress**: leetcode two pointer/sliding window
+
+**Thoughts:** easy able to do it in 30 min
+
+**Link to work:** {Find All Anagrams in a String}
+https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/1353992806
