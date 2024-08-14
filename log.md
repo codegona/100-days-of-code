@@ -194,9 +194,10 @@ https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/13539928
 
 ### Day 21: Aug 14, 2024 
 
-**Today's Progress**: leetcode two pointer/sliding window
+**Today's Progress**: leetcode two pointer/sliding window, tree traversal
 
 **Thoughts:** easy able to do it within 30 min
 
-**Link to work:** {Container With Most Water}
+**Link to work:** {Container With Most Water}{Kth Smallest Element in a BST}
 https://leetcode.com/problems/container-with-most-water/submissions/1355605256
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1355632086
