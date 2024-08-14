@@ -191,3 +191,12 @@ https://leetcode.com/problems/word-search/submissions/1353489738
 
 **Link to work:** {Find All Anagrams in a String}
 https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/1353992806
+
+### Day 21: Aug 14, 2024 
+
+**Today's Progress**: leetcode two pointer/sliding window
+
+**Thoughts:** easy able to do it within 30 min
+
+**Link to work:** {Container With Most Water}
+https://leetcode.com/problems/container-with-most-water/submissions/1355605256
