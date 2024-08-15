@@ -201,3 +201,12 @@ https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/13539928
 **Link to work:** {Container With Most Water}{Kth Smallest Element in a BST}
 https://leetcode.com/problems/container-with-most-water/submissions/1355605256
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1355632086
+
+### Day 22: Aug 15, 2024 
+
+**Today's Progress**: graph 
+
+**Thoughts:** error with creating adj list. more optimization required just bfs gives tle need to learn about topological sorting. easy intuition for bfs but took lot of time to code maybe get confortable with graph coding?
+
+**Link to work:**
+https://leetcode.com/problems/minimum-height-trees/submissions/1356247471
