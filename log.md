@@ -215,7 +215,8 @@ https://leetcode.com/problems/minimum-height-trees/submissions/1356247471
 
 **Today's Progress**: array 
 
-**Thoughts:** easy already solved.. can you optimize it further?
+**Thoughts:** easy already solved.. can you optimize it further? - optimized it but looked at the solution before even thinking about optimization :/
 
 **Link to work:**
 https://leetcode.com/problems/trapping-rain-water/submissions/1357929512
+https://leetcode.com/problems/trapping-rain-water/submissions/1357932434
