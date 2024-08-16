@@ -210,3 +210,12 @@ https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/13556320
 
 **Link to work:**
 https://leetcode.com/problems/minimum-height-trees/submissions/1356247471
+
+### Day 23: Aug 16, 2024 
+
+**Today's Progress**: array 
+
+**Thoughts:** easy already solved.. can you optimize it further?
+
+**Link to work:**
+https://leetcode.com/problems/trapping-rain-water/submissions/1357929512
