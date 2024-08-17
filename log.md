@@ -220,3 +220,12 @@ https://leetcode.com/problems/minimum-height-trees/submissions/1356247471
 **Link to work:**
 https://leetcode.com/problems/trapping-rain-water/submissions/1357929512
 https://leetcode.com/problems/trapping-rain-water/submissions/1357932434
+
+### Day 24: Aug 17, 2024 
+
+**Today's Progress**: dp/bactracking
+
+**Thoughts:** couldn't think of all testcases. failed solution but gave it a try will try again tomorrow.
+
+**Link to work:**
+https://leetcode.com/problems/word-ladder/submissions/1359283346
