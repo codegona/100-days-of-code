@@ -239,7 +239,7 @@ https://leetcode.com/problems/word-ladder/submissions/1359283346
 **Link to work:**
 N/A - did a coding interview test
 
-### Day 25: Aug 18, 2024 
+### Day 26: Aug 19, 2024 
 
 **Today's Progress**: array sliding window
 
