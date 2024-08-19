@@ -229,3 +229,22 @@ https://leetcode.com/problems/trapping-rain-water/submissions/1357932434
 
 **Link to work:**
 https://leetcode.com/problems/word-ladder/submissions/1359283346
+
+### Day 25: Aug 18, 2024 
+
+**Today's Progress**: easy array question 
+
+**Thoughts:**
+
+**Link to work:**
+N/A - did a coding interview test
+
+### Day 25: Aug 18, 2024 
+
+**Today's Progress**: array sliding window
+
+**Thoughts:** 
+
+**Link to work:**
+N/A - did a coding interview test
+
