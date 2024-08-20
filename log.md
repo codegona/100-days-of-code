@@ -248,3 +248,11 @@ N/A - did a coding interview test
 **Link to work:**
 N/A - did a coding interview test
 
+### Day 27: Aug 20, 2024 
+
+**Today's Progress**: bfs
+
+**Thoughts:** tried the same question with dp but it wont work since not all words will be covered so instead use bfs had to check solution 
+
+**Link to work:**
+https://leetcode.com/problems/word-ladder/submissions/1362657088
