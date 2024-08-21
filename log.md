@@ -256,3 +256,12 @@ N/A - did a coding interview test
 
 **Link to work:**
 https://leetcode.com/problems/word-ladder/submissions/1362657088
+
+### Day 28: Aug 21, 2024 
+
+**Today's Progress**: linked list
+
+**Thoughts:** easy 
+
+**Link to work:**
+https://leetcode.com/problems/merge-k-sorted-lists/submissions/1363208332
