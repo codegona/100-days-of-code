@@ -261,7 +261,7 @@ https://leetcode.com/problems/word-ladder/submissions/1362657088
 
 **Today's Progress**: linked list
 
-**Thoughts:** easy 
+**Thoughts:** easy, optimiation ? like Using the Priority Queue
 
 **Link to work:**
 https://leetcode.com/problems/merge-k-sorted-lists/submissions/1363208332
