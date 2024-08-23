@@ -265,3 +265,12 @@ https://leetcode.com/problems/word-ladder/submissions/1362657088
 
 **Link to work:**
 https://leetcode.com/problems/merge-k-sorted-lists/submissions/1363208332
+
+### Day 29: Aug 22, 2024 
+
+**Today's Progress**: Min Stack
+
+**Thoughts:** good question 
+
+**Link to work:**
+https://leetcode.com/problems/min-stack/submissions/1365576937
