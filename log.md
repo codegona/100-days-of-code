@@ -268,9 +268,27 @@ https://leetcode.com/problems/merge-k-sorted-lists/submissions/1363208332
 
 ### Day 29: Aug 22, 2024 
 
+**Today's Progress**: Contains duplicate
+
+**Thoughts:** easy
+
+**Link to work:**
+https://leetcode.com/problems/contains-duplicate/submissions/1366882485
+
+### Day 30: Aug 23, 2024 
+
 **Today's Progress**: Min Stack
 
 **Thoughts:** good question 
 
 **Link to work:**
 https://leetcode.com/problems/min-stack/submissions/1365576937
+
+### Day 31: Aug 24, 2024 
+
+**Today's Progress**: Maximum subarray
+
+**Thoughts:** easy
+
+**Link to work:**
+https://leetcode.com/problems/maximum-subarray/submissions/1366878945
